@@ -1,4 +1,0 @@
-print("este programa conta de um a dez")
-for x in range(1,11):
-    print(x)
-
